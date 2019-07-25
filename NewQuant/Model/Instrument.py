@@ -1,0 +1,3 @@
+
+class Instrument(object):
+    pass

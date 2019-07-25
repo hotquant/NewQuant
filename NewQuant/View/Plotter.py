@@ -1,0 +1,3 @@
+
+class Plotter(object):
+    pass

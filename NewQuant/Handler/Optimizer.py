@@ -1,0 +1,3 @@
+
+class Optimizer(object):
+    pass
